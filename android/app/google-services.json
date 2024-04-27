@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773143142950",
+    "project_id": "flutter-examen-2",
+    "storage_bucket": "flutter-examen-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773143142950:android:32c6e4a28b453826f9bce7",
+        "android_client_info": {
+          "package_name": "com.example.examen_2_progra_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPsu9ohFD5_sj0bBoKb_4fqaeSE9duv48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
